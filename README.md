@@ -25,4 +25,5 @@ A simple and beginner-friendly Python project that analyzes student marks and ge
 ## 🚀 How to Run
 
 ```bash
-python marks_analyzer.py
+python #Student_Marks_Analyzer_Project.py
+
